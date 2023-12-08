@@ -1,3 +1,10 @@
+<h1 align="center">Hi, I'm Poorvi Singh Thakur</h1>
+<h3 align="center">A passionate full stack developer</h3>
+
+- 🌱 I’m currently learning **Node.js and MongoDB.**
+
+- 📫 How to reach me **poorvisinghthakur27@gmail.com**
+
 # 💫 About Me:
 👨‍💻 Full-stack web developer<br>- 🚀 Focused on mastering Node.js and MongoDB<br>- 🌐 Deep understanding of front-end and back-end development<br>- 💡 Passionate about crafting dynamic, user-friendly websites<br>- 🔧 Strong coding skills and knowledge of the latest programming trends<br>- 🌟 Confident in taking on any web development project and exceeding expectations
 
