@@ -1,3 +1,4 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1200">
 <h1 align="center">Hi, I'm Poorvi Singh Thakur</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -5,7 +6,7 @@
 
 - 📫 How to reach me **poorvisinghthakur27@gmail.com**
 
-# 💫 About Me:
+# 💫 About Me: <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300">
 👨‍💻 Full-stack web developer<br>- 🚀 Focused on mastering Node.js and MongoDB<br>- 🌐 Deep understanding of front-end and back-end development<br>- 💡 Passionate about crafting dynamic, user-friendly websites<br>- 🔧 Strong coding skills and knowledge of the latest programming trends<br>- 🌟 Confident in taking on any web development project and exceeding expectations
 
 
