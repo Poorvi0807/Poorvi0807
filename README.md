@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="700">
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1200">
 <h1 align="center">Hi, I'm Poorvi Singh Thakur</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
