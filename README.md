@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **poorvisinghthakur27@gmail.com**
 - My Portfolio** https://poorvi0807.github.io/
-# 💫 About Me: <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300">
+# 💫 About Me: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600">
 👨‍💻 Full-stack web developer<br>- 🚀 Focused on mastering Node.js and MongoDB<br>- 🌐 Deep understanding of front-end and back-end development<br>- 💡 Passionate about crafting dynamic, user-friendly websites<br>- 🔧 Strong coding skills and knowledge of the latest programming trends<br>- 🌟 Confident in taking on any web development project and exceeding expectations
 
 
